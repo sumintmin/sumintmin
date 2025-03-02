@@ -3,8 +3,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Here%20I%20am!😀&fontSize=80&fontColor=ffffff)
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=hello😀&fontSize=80&fontColor=ffffff)
 
 
 
