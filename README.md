@@ -3,7 +3,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Here%20I%20am!😀&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Here%20I%20am!😀&fontSize=90&animation=blinking)
 
 
 
