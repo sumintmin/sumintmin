@@ -33,11 +33,11 @@ Where [COLOR] is optional, and can be replaced by the hex colors or CSS keywords
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/spring/#6DB33F" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/#F37626" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6/pink" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26/eee" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/_" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/_" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/_" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6/_" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6/_" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6/_" />
 
 You can use a viewbox=auto parameter to get a auto-sized viewbox. This is useful if you want all icons rendered with consistent size:
 
