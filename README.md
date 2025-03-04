@@ -17,14 +17,29 @@
 |------|---|
 |Contact|<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="test"/> <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="test" />	|
 |Group|<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="test" /> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="test" /> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="test" /> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="test" /> <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" alt="test" /> <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge" alt="test" /> |
-|테스트1|테스트2|
-|테스트1|테스트2|
-|테스트1|테스트2|
+|Social|<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="test" /> <img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="test" /> <img src="	https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="test" /> <img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="test" /> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white" alt="test" /> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="test" />|
+|OS|<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="test" /> <img src="	https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="test" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="test" /> <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="test" />|
+|Skills|테스트2|
 |테스트1|테스트2|
 |테스트1|테스트2|
 
 
 
+
+
+<img src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="test" />
+<img src="	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="test" />
+<img src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="test" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="test" />
+<img src="	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="test" />
+<img src="	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="test" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="test" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="test" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="test" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="test" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="test" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="test" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="test" />
 <img src="" alt="test" />
 <img src="" alt="test" />
 <img src="" alt="test" />
@@ -33,6 +48,40 @@
 <img src="" alt="test" />
 <img src="" alt="test" />
 <img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+<img src="" alt="test" />
+
 
 
 
