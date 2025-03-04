@@ -27,17 +27,17 @@ We also provide a CDN service which allows you to use colors.
 Where [COLOR] is optional, and can be replaced by the hex colors or CSS keywords of the icon you want to use. The color is defaulted to the HEX color of the icon shown in simpleicons.org website. [DARK_MODE_COLOR] is used for dark mode. The CSS prefers-color-scheme will be used when a value is specified. For example:
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/github" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#5FA04E?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/#000000?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/spring/#6DB33F?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/#F37626?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6/pink?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26/eee?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/_?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/_?viewbox=auto" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/_?viewbox=auto" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#5FA04E" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/#000000" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/spring/#6DB33F" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/#F37626" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6/pink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/_" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/_" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6/_" />
 
 You can use a viewbox=auto parameter to get a auto-sized viewbox. This is useful if you want all icons rendered with consistent size:
 
