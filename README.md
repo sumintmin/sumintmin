@@ -26,7 +26,7 @@ We also provide a CDN service which allows you to use colors.
 <img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]/[DARK_MODE_COLOR]" />
 Where [COLOR] is optional, and can be replaced by the hex colors or CSS keywords of the icon you want to use. The color is defaulted to the HEX color of the icon shown in simpleicons.org website. [DARK_MODE_COLOR] is used for dark mode. The CSS prefers-color-scheme will be used when a value is specified. For example:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/github?viewbox=auto" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB?viewbox=auto" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#5FA04E?viewbox=auto" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/#000000?viewbox=auto" />
