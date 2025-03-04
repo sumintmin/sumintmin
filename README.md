@@ -62,7 +62,7 @@
 |Group|https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
  https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge
  |
-|테스트1|테스트2|
+|테스트1|[테스트2](https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white)|
 |테스트1|테스트2|
 |테스트1|테스트2|
 |테스트1|테스트2|
