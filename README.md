@@ -10,21 +10,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumintmin)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumintmin&hide=contribs,prs&show_icons=true&theme=blue)
 
-Important
-
-We ask that all users read our legal disclaimer before using icons from Simple Icons.
-
-General Usage
-Icons can be downloaded as SVGs directly from simpleicons.org - simply click the download button of the icon you want, and the download will start automatically.
-
-
-CDN with colors
-We also provide a CDN service which allows you to use colors.
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]/[DARK_MODE_COLOR]" />
-Where [COLOR] is optional, and can be replaced by the hex colors or CSS keywords of the icon you want to use. The color is defaulted to the HEX color of the icon shown in simpleicons.org website. [DARK_MODE_COLOR] is used for dark mode. The CSS prefers-color-scheme will be used when a value is specified. For example:
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/github" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" />
@@ -63,18 +48,33 @@ Where [COLOR] is optional, and can be replaced by the hex colors or CSS keywords
 <img height="32" width="32" src="https://cdn.simpleicons.org/apachetomcat/F8DC75" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/gitforwindows/#80B3FF" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/gitforwindows/80B3FF" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/googlecolab/F9AB00" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/slack/4A154B" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/slack/4A154B" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/slack/4A154B" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/slack/4A154B" />
 
-You can use a viewbox=auto parameter to get a auto-sized viewbox. This is useful if you want all icons rendered with consistent size:
 
-<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
+|제목|내용|
+|------|---|
+|Contact|https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white 	https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white|
+|Group|https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
+ https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge
+ |
+|테스트1|테스트2|
+|테스트1|테스트2|
+|테스트1|테스트2|
+|테스트1|테스트2|
+|테스트1|테스트2|
+|테스트1|테스트2|
+
+
+
+
+
+
+
 
 
 
